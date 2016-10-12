@@ -1,1 +1,1 @@
-# smsc-hlr-api-http
+Sample code for the  txtNation API at http://wiki.txtnation.com/wiki/txtNation_SMSC_HLR_API_HTTP

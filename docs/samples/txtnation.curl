@@ -1,0 +1,4 @@
+curl http://smsc.txtnation.com:5002/checkHLR?msisdn=msisdn&username=username&password=password&output=xml|json
+
+
+
