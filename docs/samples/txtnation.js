@@ -7,9 +7,9 @@ function getTestPersonaLoginCredentials(callback) {
 		port: 5002,
 		path: '/checkHLR',
 		qs:{
-			msisdn    : "msisdn"
-			username  : "username"
-			password  : "password"
+			msisdn    : "msisdn",
+			username  : "username",
+			password  : "password",
 			output    : "xml|json"
 		}
 	}, function(response) {
